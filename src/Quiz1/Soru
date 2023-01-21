@@ -1,0 +1,26 @@
+Aşağıda ifade edilen matrislerin transpozunu bulunuz ve transpozu alınmış matrislerin toplama ve çıkarma işlemlerini aşağıdaki çıktıyı sırası ile elde edecek şekilde yapınız
+
+Matris 1: [ 1 2 ]
+Matris 2: [3 5 ]
+
+Matris 1 Transpoz
+1
+2
+
+Matris 2 Transpoz
+
+3
+5
+
+Matrislerin Toplamı:
+
+4
+6
+
+Matrislerin Çıkarımı
+
+-2
+3
+
+
+bu çıktıyı elde edeceğim java kodunu yazınız.
